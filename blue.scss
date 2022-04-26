@@ -1,0 +1,6 @@
+@use "style";
+
+body {
+  color: blue;
+  background-color: fade-in($color: #e09393, $amount: 0);
+}
